@@ -1,0 +1,62 @@
+.inner-section{
+	padding-top: 100px;
+	padding-bottom: 200px;
+}
+
+.inner-section .sub-heading {
+	margin-bottom: 30px;
+}
+
+.inner-section .button-container {
+	margin-bottom: 60px;
+}
+
+.icon-96{
+	font-size: 96px;
+}
+.connect-storage-left {
+	margin-bottom: 50px;
+}
+
+.connect-storage-middle {
+	margin-bottom: 50px;
+}
+
+.gitter-icon{
+	height: 24px;
+	vertical-align: top;
+}
+
+.paddless-header{
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+
+.package-features .column-6p {
+	width: 80%;
+	float: left;
+	text-align: left;
+}
+
+.package-features .column-4p {
+	width: 20%;
+	float: left;
+	text-align: left;
+}
+
+.package-features ul{
+	margin-bottom: 0;
+}
+
+.pricing-table a {
+	margin-top: 20px;
+}
+
+@media(max-width:767px) {
+	
+	.inner-section{
+		padding-top: 75px;
+		padding-bottom: 75px;
+	}
+	
+}
